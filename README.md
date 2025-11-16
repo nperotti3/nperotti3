@@ -13,6 +13,9 @@ M.S. Analytics 2025 @ Georgia Tech • 9+ yrs accounting → data analytics
 - [**Inventory Insights Dashboard**](#) – Power BI (SKU-level KPIs, stockouts)  
 - [**SQL Data Cleaning & Reporting**](#) – SQL joins, window functions, CTEs
 - **[College Tuition Analysis](https://github.com/nperotti3/college-tuition-analysis)** – Python + Tableau (data pipeline, CPI inflation adjustments, ARIMA forecasting, SHAP feature importance)
+[![College Tuition Dashboard](https://raw.githubusercontent.com/nperotti3/college-tuition-analysis/main/images/dashboard_overview.png)](https://github.com/nperotti3/college-tuition-analysis)
+
+
 
 
 ---
