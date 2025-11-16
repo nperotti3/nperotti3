@@ -11,7 +11,9 @@ M.S. Analytics 2025 @ Georgia Tech • 9+ yrs accounting → data analytics
 ## 📊 Featured Projects
 - [**Retail Sales Forecasting**](#) – Python + Power BI (time series, feature engineering)  
 - [**Inventory Insights Dashboard**](#) – Power BI (SKU-level KPIs, stockouts)  
-- [**SQL Data Cleaning & Reporting**](#) – SQL joins, window functions, CTEs  
+- [**SQL Data Cleaning & Reporting**](#) – SQL joins, window functions, CTEs
+- **[College Tuition Analysis (Team Project)](https://github.com/cse6242-151/college-tuition-project)** – Python + Tableau (data pipeline, CPI inflation adjustments, ARIMA forecasting, SHAP feature importance)
+
 
 ---
 
